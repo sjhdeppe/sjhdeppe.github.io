@@ -1,8 +1,8 @@
 # site settings
 title: Stephanie Deppe, PhD
-subtitle: Planetary Scientist • Science Communicator
+subtitle: # Planetary Scientist • Science Communicator
 email: sjhamilton820@gmail.com
-description: The internet home of Stephanie Deppe, Planetary Scientist and Astronomy Content Strategist at NSF–DOE Vera C. Rubin Observatory
+description: "I'm a planetary scientist, science communicator, and current Astronomy Content Strategist at NSF–DOE Vera C. Rubin Observatory
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Stephanie Deppe
