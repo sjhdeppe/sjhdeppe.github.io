@@ -1,7 +1,9 @@
 ---
 layout: page
 title: "About Me"
-description: "Planetary Scientist, Science Communicator, and Astronomy Content Strategist"
+description: "Planetary Scientist, Science Communicator, Content Strategist"
+image: assets/images/pic07.jpg
+nav-menu: true
 ---
 
 Stephanie JH Deppe, PhD (she/her) is a planetary scientist, science communicator, and public engagement specialist (not necessarily in that order). She loves making science accessible to everyone and enabling other researchers to do the same.
