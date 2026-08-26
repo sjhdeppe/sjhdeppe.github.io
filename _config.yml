@@ -1,11 +1,11 @@
 # site settings
 title: Stephanie Deppe, PhD
-subtitle: Planetary Scientist • Science Communicator • Public Engagement Specialist
+subtitle: Planetary Scientist • Science Communicator
 email: sjhamilton820@gmail.com
 description: The internet home of Stephanie Deppe, Planetary Scientist and Astronomy Content Strategist at NSF–DOE Vera C. Rubin Observatory
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.spacescisteph.com" # the base hostname & protocol for your site
-author:
+author: Stephanie Deppe
 # street_address: 1234 Somewhere Road
 # city: Nashville
 # state: TN
