@@ -2,8 +2,8 @@
 layout: home
 title: Home
 landing-title: "Hi, I'm Stephanie!"
-description: null
-image: null
+description: "Science communicator and planetary astronomer"
+image: assets/images/PXL_20241109_171009931.jpg
 author: null
 show_tile: false
 ---

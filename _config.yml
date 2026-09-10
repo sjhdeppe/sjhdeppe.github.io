@@ -1,8 +1,8 @@
 # site settings
 title: Stephanie Deppe, PhD
-subtitle: # Planetary Scientist • Science Communicator
-email: sjhamilton820@gmail.com
-description: "I'm a planetary scientist, science communicator, and current Astronomy Content Strategist at NSF–DOE Vera C. Rubin Observatory"
+subtitle: Scientist • Communicator 
+email: sjhdeppe@gmail.com
+description: "Bringing the Universe closer to home. Professional advocate for cool rocks in space.<br>Content Strategist at <a href='https://rubinobservatory.org' target='_blank' rel='noopener noreferrer'>NSF–DOE Rubin Observatory</a>"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Stephanie Deppe
@@ -15,19 +15,19 @@ author: Stephanie Deppe
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 4
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: 
+  GitHub:
   GitLab:
-  Google-Plus: 
+  Google-Plus:
   Instagram: https://www.instagram.com/spacescisteph
   LinkedIn: https://www.linkedin.com/in/stephanie-jh-deppe
-  Twitter: 
+  Twitter:
   Facebook:
   Slack:
   Bluesky: https://bsky.app/profile/spacescisteph.bsky.social
@@ -44,4 +44,12 @@ exclude:
 - "*.gemspec"
 - LICENSE.md
 - CONTRIBUTING.md
-- README.md 
+- README.md
+- elements.md
+- Gemfile
+- Gemfile.lock
+- vendor
+- "._*"
+- ".#*"
+- "#*#"
+- "*~"

@@ -79,3 +79,13 @@
 	@import 'layout/footer';
 	@import 'layout/wrapper';
 	@import 'layout/menu';
+
+/* Custom nested bullet styles */
+ul ul {
+    list-style-type: circle; /* Changes the shape to a hollow circle */
+    margin-left: 1.5em;      /* Adjusts the indent of the nested list */
+}
+
+ul ul li {
+    padding-left: 0.5em;     /* Adds a little breathing room between the bullet and text */
+}
