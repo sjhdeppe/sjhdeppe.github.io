@@ -14,7 +14,7 @@ Please fill out the form if you’re looking for an enthusiastic planetary scien
 
 <!-- Form -->
 
-<form method="post" action="https://formspree.io/f/{{ site.email }}" style="max-width: 750px; width: 100%; margin: 0 auto;">
+<form method="post" action="https://formsubmit.co/{{ site.email }}" style="max-width: 750px; width: 100%; margin: 0 auto;">
 	<div class="row uniform">
 		<div class="6u 12u$(xsmall)">
 			<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
