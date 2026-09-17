@@ -17,22 +17,22 @@ Please fill out the form if you’re looking for an enthusiastic planetary scien
 <form method="post" action="https://formsubmit.co/473411f52e08491701b6e66f848baf6c" style="max-width: 750px; width: 100%; margin: 0 auto;">
 	<div class="row uniform">
 		<div class="6u 12u$(xsmall)">
-			<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
+			<input type="text" name="Name" id="demo-name" value="" placeholder="Name" />
 		</div>
 		<div class="6u$ 12u$(xsmall)">
-			<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
+			<input type="email" name="Email" id="demo-email" value="" placeholder="Email" />
 		</div>
 		<!-- Break -->
 		<div class="12u$">
 			<div class="select-wrapper">
-				<select name="demo-category" id="demo-category">
+				<select name="Category" id="demo-category">
 					<option value="">- Reason for your message -</option>
-					<option value="1">Speaker request (workshop, panel, keynote, etc.)</option>
-					<option value="1">Science writing request/invitation</option>
-                    <option value="1">Interview guest/expert</option>
+					<option value="Speaker request">Speaker request (workshop, panel, keynote, etc.)</option>
+					<option value="Writing request">Science writing request/invitation</option>
+                    <option value="Interview request">Interview guest/expert</option>
 					<!-- <option value="1">Consultant request (science communication)</option> -->
 					<!-- <option value="1">Consultant request (planetary science)</option> -->
-                    <option value="1">Other</option>
+                    <option value="Other">Other</option>
 				</select>
 			</div>
 		</div>
@@ -60,7 +60,7 @@ Please fill out the form if you’re looking for an enthusiastic planetary scien
 		<!-- </div> -->
 		<!-- Break -->
 		<div class="12u$">
-			<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
+			<textarea name="Message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
 		</div>
 		<!-- Break -->
 		<div class="12u$">
